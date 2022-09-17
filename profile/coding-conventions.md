@@ -13,6 +13,7 @@ What are Coding Conventions?  Well, one of the first rules you learn in the real
 ## Markdown / Documentation
 
 1) Use the GitHub Markdown style.  Their MD [guidelines can be found here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+2) Everyone gets a README.md file..  
 
 ![git-GitHub-logo](./img/git-github-logo-small.png)
 
@@ -27,3 +28,10 @@ What are Coding Conventions?  Well, one of the first rules you learn in the real
     - Branches
     - Merging / Pull Requests
     - Stashing (WIP)
+
+## VS Code
+
+1) Setting up WPI / Java / VS Code using the FRC WPI Installer.
+2) Common VS Code extensions you will over the stand Java, WPI extensions.
+    - java linter
+    - markdown linter
