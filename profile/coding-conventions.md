@@ -13,7 +13,7 @@ Your guidelines to writing good Raptor Code.
 
 
 ## Git / GitHub
-![git-github-logo](https://github.com/frc1711/.github/profile/img/git-github-logo.pngimg/git-github-logo.png)
+![git-github-logo](https://github.com/frc1711/.github/profile/img/git-github-logo.png)
 
 
 ## VS code
