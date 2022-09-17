@@ -30,6 +30,6 @@ FRC Team 1711 The Raptors is a First Robotics Challenge team started in 2006 at 
 
 * 👩‍💻 Becoming better programmers.  Not in only wpilib robotics programming, but website development, app development.  Using Git and GitHub properly in a team programming environment.
 * 📖 Sharing what we learn
-* Documenting our processes and procedures. 
-* [Coding Conventions](coding-conventions.md)
+* Documenting our processes and procedures. 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+* [Coding Conventions](./profile/coding-conventions.md)
 
