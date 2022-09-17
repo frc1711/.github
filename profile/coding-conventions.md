@@ -4,20 +4,20 @@ What are Coding Conventions?  Well, one of the first rules you learn in the real
 
 
 
-## Java ![java-logo](./img/java-small.png)
+## ![java-logo](./img/java-small.png)
 
 @gabrielseaver9678  put your conventions/recommendations here
 
 ### Comment your code
 
-## Markdown / Documentation
+## ![markdown-logo](./img/md-logo.png) Markdown
 
 1) Use the GitHub Markdown style.  Their MD [guidelines can be found here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 2) Everyone gets a README.md file..  
 
 
 
-## Git / GitHub ![git-GitHub-logo](./img/git-github-logo-small.png)
+## ![git-GitHub-logo](./img/git-github-logo-small.png)
 
 1) Create a personal account on GitHub and ask a programming mentor to add your account to the Raptor1711 organization.  [Click here to create a GitHub](https://github.com/join) account, if you don't already have one.
 2) Read the docs about [getting started with Git and GitHub](https://docs.github.com/en/get-started).
@@ -29,7 +29,7 @@ What are Coding Conventions?  Well, one of the first rules you learn in the real
     - Merging / Pull Requests
     - Stashing (WIP)
 
-## VS Code
+## ![vs-code-logo](./img/vs-code-logo.png)VS Code
 
 1) Setting up WPI / Java / VS Code using the FRC WPI Installer.
 2) Common VS Code extensions you will over the stand Java, WPI extensions.
