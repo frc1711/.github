@@ -2,9 +2,9 @@
 
 What are Coding Conventions?  Well, one of the first rules you learn in the real world is  1) Don't Reinvent the Wheel.  So I'll let some better authors then I explain it better, [click here](https://en.wikipedia.org/wiki/Coding_conventions#:~:text=Coding%20conventions%20are%20a%20set,program%20written%20in%20that%20language.).
 
-![java-logo](./img/java-small.png)
 
-## Java
+
+## Java ![java-logo](./img/java-small.png)
 
 @gabrielseaver9678  put your conventions/recommendations here
 
@@ -15,9 +15,9 @@ What are Coding Conventions?  Well, one of the first rules you learn in the real
 1) Use the GitHub Markdown style.  Their MD [guidelines can be found here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 2) Everyone gets a README.md file..  
 
-![git-GitHub-logo](./img/git-github-logo-small.png)
 
-## Git / GitHub
+
+## Git / GitHub ![git-GitHub-logo](./img/git-github-logo-small.png)
 
 1) Create a personal account on GitHub and ask a programming mentor to add your account to the Raptor1711 organization.  [Click here to create a GitHub](https://github.com/join) account, if you don't already have one.
 2) Read the docs about [getting started with Git and GitHub](https://docs.github.com/en/get-started).
