@@ -32,4 +32,3 @@ FRC Team 1711 The Raptors is a First Robotics Challenge team started in 2006 at 
 * 📖 Sharing what we learn
 * Documenting our processes and procedures. 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 * [Coding Conventions](/profile/coding-conventions.md)
-
