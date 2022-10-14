@@ -27,3 +27,4 @@ our accomplishments [on our Blue Alliance history page](https://www.theblueallia
 * Documenting our processes and procedures. 🧙 Remember, you can do mighty
   things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 * Establishing and following our team [Coding Conventions](/profile/coding-conventions.md).
+* Using **Git** and **GitHub** better.  We need more people writting code for the robot.  How do we do that?  We have them using version control and submitting their code back into the current years robot repo.
