@@ -13,16 +13,15 @@ our accomplishments [on our Blue Alliance history page](https://www.theblueallia
 
 ## 🗂️ Primary Repos
 
-* [2022 Robot Code. - Euphrosyne](https://github.com/frc1711/Euphrosyne)
-* Our [Swerve Library](https://github.com/frc1711/swervelib), or swervelib.
+* [CLAW](https://github.com/frc1711/CLAW) - The FRC 1711 library for WPILibJ robot projects.
+* [Team documentation and resources](https://github.com/frc1711/documentation)
 * Future scouting app.
 * [raptors1711.com website](https://github.com/frc1711/raptors1711.com)
 
 ## 🥅 Goals
 
 * 👩‍💻 Becoming better programmers.  Not in only wpilib robotics programming,
-  but website development, app development.  ~~Using Git and GitHub properly in a
-  team programming environment.~~ Made it it's own goal.
+  but website development, app development.
 * 📖 Sharing what we learn.
 * Documenting our processes and procedures. 🧙 Remember, you can do mighty
   things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
