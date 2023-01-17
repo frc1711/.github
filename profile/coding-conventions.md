@@ -32,6 +32,6 @@ What are Coding Conventions?  Well, one of the first rules you learn in the real
 ## ![vs-code-logo](./img/vs-code-logo.png)VS Code
 
 1) Setting up WPI / Java / VS Code using the FRC WPI Installer.
-2) Common VS Code extensions you will over the stand Java, WPI extensions.
+2) Common VS Code extensions you might want over the standard Java and WPI extensions.
     - java linter
     - markdown linter
